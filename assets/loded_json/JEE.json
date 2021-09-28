@@ -1,0 +1,73 @@
+[
+    
+    {
+    "title" :"Python 3 Course (Introduction)",
+    "link"  : "https://www.youtube.com/watch?v=RAwntanK4wQ",
+    "islocked" : false
+    },
+    {
+    "title" :"Python2 vs Python3",
+    "link"  : "https://www.youtube.com/watch?v=0_lUKurdt88",
+    "islocked": true
+    },
+    {
+    "title" :"Download and install Python, VsCode and Git",
+    "link"  : "https://www.youtube.com/watch?v=iWA1ExXAAMo",
+    "islocked": false
+    },
+    {
+    "title" :"Print Function:",
+    "link"  : "https://www.youtube.com/watch?v=vwHovI3x3cY",
+    "islocked": true
+    },
+    {
+    "title" :"Escape Sequences ",
+    "link"  : "https://www.youtube.com/watch?v=oLVCeWKXYpY",
+    "islocked": true
+    },
+    {
+    "title" :"Loop",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Logical Functions",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"if else statement",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Arrays",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Functions",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"File Handling",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"IO Types",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Project1",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Project2",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    }
+    ]

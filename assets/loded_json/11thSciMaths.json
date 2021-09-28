@@ -1,0 +1,73 @@
+[
+    
+    {
+    "title" :"Fundamental of partnership | introduction | chapter 1 |",
+    "link"  : "https://www.youtube.com/watch?v=1LRmddEEssQ",
+    "islocked" : false
+    },
+    {
+    "title" :"2, Profit and loss appropriation account | Fundamentals of partnership | Class 12 Accounts |",
+    "link"  : "https://www.youtube.com/watch?v=DS3Dv6u3YWQ",
+    "islocked": true
+    },
+    {
+    "title" :"3, Profit and loss Appropriation Account | Important tips | Class 12 accounts",
+    "link"  : "https://www.youtube.com/watch?v=YQNiD6dNRac",
+    "islocked": false
+    },
+    {
+    "title" :"Data Types",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Tokens",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Loop",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Logical Functions",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"if else statement",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Arrays",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Functions",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"File Handling",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"IO Types",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Project1",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Project2",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    }
+    ]

@@ -1,0 +1,73 @@
+[
+    
+    {
+    "title" :"introduction",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked" : false
+    },
+    {
+    "title" :"Basics",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"History of C language",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": false
+    },
+    {
+    "title" :"Data Types",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Tokens",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Loop",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Logical Functions",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"if else statement",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Arrays",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Functions",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"File Handling",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"IO Types",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Project1",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    },
+    {
+    "title" :"Project2",
+    "link"  : "https://www.youtube.com/watch?v=hKB-YGF14SY",
+    "islocked": true
+    }
+    ]
